@@ -1,5 +1,5 @@
 # Base configs
-baseurl: ""
+baseurl: "https://www.ramonmoorlag.nl/HB"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -7,7 +7,7 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Digitalisatie Harry Buckinx"
-subtitle: "Wie zeurt krijgt een beurs"
+subtitle: "Wie zeurt krijgt een beurt"
 author: "Ramon Moorlag"
 header:
  title: "Optimalisatie met AI"
@@ -21,8 +21,8 @@ web_design: "AJ"
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/moorlag"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  #twitter: "https://www.twitter.com/moorlag"
+  #instagram: "https://www.instagram.com/ram_patra"
+  #dribbble: "https://dribbble.com/rampatra"
+  #linkedin: "https://in.linkedin.com/in/ram-patra"
+  #github: "https://www.github.com/rampatra"
